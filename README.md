@@ -1,5 +1,5 @@
 # Music Database CLI
-<a href="https://drive.google.com/file/d/1K2x1tezGqZbn_V6W7BRtK03ZZL2zBbRI/view?usp=sharing" target="_blank">Open File</a>
+<a href="https://drive.google.com/file/d/1K2x1tezGqZbn_V6W7BRtK03ZZL2zBbRI/view?usp=sharing" target="_blank">Open video</a>
 
 This Python program provides a command-line interface (CLI) to interact with a MySQL-based music database. It allows users to retrieve, modify, and analyze various music-related data. Below is the list of available commands that the program can execute.
 
